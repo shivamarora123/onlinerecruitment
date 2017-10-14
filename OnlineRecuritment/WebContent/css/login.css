@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+#LoginForm {
+
+color:black;
+display: table;
+padding:50px;
+margin-left:400px;
+margin-top:150px;
+
+}
+.row{
+display:table-row;
+
+}
+.row label{
+display:table-cell;
+align:right;
+padding:3px;
+}
+.row input{
+display:table-cell;
+padding:3px;
+}
+h1{
+	font-family:verdana;
+	color:red;
+	text-align:center;
+}

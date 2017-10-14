@@ -1,0 +1,22 @@
+#div1{
+float:right;
+width:auto;
+height:auto
+}
+ul li{
+//background:black;
+color:white;
+float:left;
+list-style: none;
+margin-right: 20px;
+padding: 50px 20px;
+line-height: 40px
+font-size:200px;
+}
+ul li:hover{
+	background:red;
+	font-size:20px;
+}
+body{
+	color:white;
+}
